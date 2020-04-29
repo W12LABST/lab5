@@ -1,0 +1,20 @@
+Opis realizacji zadań z laboratorium nr. 5
+
+	Program zawiera proste menu użytkownika, z którego można wybierać dostępne funkcje. Cztery programy
+z instrukcji nr 1 zostały scalone w jeden. Testowanie funkcji odbywa się "obok" aktualnie używanego programu.
+Wprowadzone w kodzie zmiany względem oryginalnych programów z lab1 stanowią refaktoryzację mającą na celu
+oddzielenie logiki biznesowej od funkcji odpowiedzialnych za komunikację z użytkownikiem. Utworzone zostały
+funkcje odpowiedzialne za wykonywanie działań poszczególnych programów. Funkcje te zostały następnie
+przetestowane. Testy zostały zaprojektowane tak aby zawsze dawały rezultat "passed".
+
+Zaimplementowane funkcjonalności:
+ - testy jednostkowe
+ - proste menu użytkownika
+ - oddzielenie logiki biznesowej od funkcji odpowiedzialnych za komunikację z użytkownikiem
+
+Klasy:
+ - Test1
+ - Testy
+ - Funkcje
+
+
